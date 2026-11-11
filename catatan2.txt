@@ -1,0 +1,1 @@
+Staging area digunakan untuk menyiapkan perubahan sebelum commit.
