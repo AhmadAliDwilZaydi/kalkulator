@@ -1,0 +1,9 @@
+# File hasil kompilasi Python
+__pycache__/
+*.pyc
+
+# File log
+*.log
+
+# File rahasia (jangan pernah di-commit)
+*.env
