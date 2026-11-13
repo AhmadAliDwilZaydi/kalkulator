@@ -7,3 +7,6 @@ __pycache__/
 
 # File rahasia (jangan pernah di-commit)
 *.env
+
+venv/
+*.tmp
