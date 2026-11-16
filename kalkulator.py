@@ -17,6 +17,11 @@ def bagi(a, b):
         return "Error: pembagian dengan nol"
     return a / b
 
+def maksimum(a, b):
+    if a > b:
+        return a
+    return b
+
 if __name__ == "__main__":
     print("Kalkulator Empat Operasi")
     print(format_hasil("+", 2, 3, tambah(2, 3)))
@@ -27,4 +32,4 @@ if __name__ == "__main__":
     # menampilkan contoh hasil perkalian
     print(format_hasil(":", 8, 2, bagi(8, 2)))
     # menampilkan contoh hasil pembagian
-
+    print("Maksimum dari 10 dan 7 =", maksimum(10, 7))
