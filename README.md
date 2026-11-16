@@ -10,3 +10,6 @@ Dibuat oleh: AHMAD ALI DWIL ZAYDI
 python kalkulator.py
 
 ```
+## Fitur
+
+- Penjumlahan dan pengurangan
