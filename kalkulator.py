@@ -9,9 +9,16 @@ def tambah(a, b):
 def kurang(a, b):
     return a - b
 
+def bagi(a, b):
+    if b == 0:
+        return "Error: pembagian dengan nol"
+    return a / b
+
 if __name__ == "__main__":
     print("Kalkulator Sederhana")
     print(format_hasil("+", 2, 3, tambah(2, 3)))
     # Menampilkan contoh hasil penjumlahan
     print(format_hasil("-", 7, 4, kurang(7, 4)))
     # menampilkan contoh hasil pengurangan
+    print(format_hasil(":", 8, 2, bagi(8, 2)))
+    # menampilkan contoh hasil pembagian
