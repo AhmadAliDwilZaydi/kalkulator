@@ -19,3 +19,7 @@ python kalkulator.py
 Nama: AHMAD ALI DWIL ZAYDI
 NIM: 105841120224
 Kelas: 5B
+
+## Catatan Pengembangan
+
+Pengembangan fitur dilakukan melalui branch dan digabungkan ke main.
