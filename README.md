@@ -12,7 +12,7 @@ python kalkulator.py
 ```
 ## Fitur
 
-- Penjumlahan dan pengurangan
+- Penjumlahan, pengurangan, perkalian, dan pembagian
 
 ## Penulis
 
