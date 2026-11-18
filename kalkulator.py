@@ -15,7 +15,7 @@ def kali(a, b):
 def bagi(a, b):
     if b == 0:
         return "Error: pembagian dengan nol"
-    return a / b
+        return round(a / b, 2)
 
 def maksimum(a, b):
     if a > b:
