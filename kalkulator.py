@@ -1,6 +1,6 @@
 # Latihan memilih perubahan dengan staging
 # kalkulator.py - Kalkulator sederhana
-from utilitas import format_hasil
+from utilitas import format_hasil, pangkat
 
 
 def tambah(a, b):
@@ -33,3 +33,4 @@ if __name__ == "__main__":
     print(format_hasil(":", 8, 2, bagi(8, 2)))
     # menampilkan contoh hasil pembagian
     print("Maksimum dari 10 dan 7 =", maksimum(10, 7))
+    print(format_hasil("^", 2, 10, pangkat(2, 10)))
