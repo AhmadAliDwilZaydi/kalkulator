@@ -23,3 +23,4 @@ Kelas: 5B
 ## Catatan Pengembangan
 
 Pengembangan fitur dilakukan melalui branch dan digabungkan ke main.
+- Perpangkatan
