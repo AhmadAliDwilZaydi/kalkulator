@@ -1,6 +1,6 @@
 # Kalkulator Sederhana
 
-Proyek latihan Git bersama tim Ali.
+Proyek latihan praktikum Git bersama kelompok Informatika.
 
 Dibuat oleh: AHMAD ALI DWIL ZAYDI
 
